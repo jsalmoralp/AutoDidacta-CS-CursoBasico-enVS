@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -145,6 +160,12 @@
     <Compile Include="App_Cliente\Menu\MenuCafes.Designer.cs">
       <DependentUpon>MenuCafes.cs</DependentUpon>
     </Compile>
+    <Compile Include="App_Cliente\Menu\MenuEnsaladas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App_Cliente\Menu\MenuEnsaladas.Designer.cs">
+      <DependentUpon>MenuEnsaladas.cs</DependentUpon>
+    </Compile>
     <Compile Include="App_Cliente\Menu\MenuOtros.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -233,6 +254,9 @@
     <EmbeddedResource Include="App_Cliente\Menu\MenuCafes.resx">
       <DependentUpon>MenuCafes.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="App_Cliente\Menu\MenuEnsaladas.resx">
+      <DependentUpon>MenuEnsaladas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="App_Cliente\Menu\MenuOtros.resx">
       <DependentUpon>MenuOtros.cs</DependentUpon>
     </EmbeddedResource>
@@ -278,6 +302,17 @@
     <None Include="Resources\cafes.jpg" />
     <None Include="Resources\otros.jpg" />
     <None Include="Resources\interrogante.jpg" />
+    <None Include="Resources\ensalada_verde.png" />
+    <None Include="Resources\txt-ensalada_twister.png" />
+    <None Include="Resources\txt-ensalada_tomate.png" />
+    <None Include="Resources\txt-ensalada_queso_cabra.png" />
+    <Content Include="Datos\Database_Twister.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Datos\Database_Twister_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database_Twister.mdf</DependentUpon>
+    </Content>
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -295,6 +330,18 @@
   <ItemGroup>
     <Folder Include="App_Admin\Plantillas\Adds\" />
     <Folder Include="App_Cliente\SubMenu\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -83,6 +83,16 @@ namespace Facturacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ensalada_verde {
+            get {
+                object obj = ResourceManager.GetObject("ensalada_verde", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap interrogante {
             get {
                 object obj = ResourceManager.GetObject("interrogante", resourceCulture);
@@ -116,6 +126,36 @@ namespace Facturacion.Properties {
         internal static System.Drawing.Bitmap platos {
             get {
                 object obj = ResourceManager.GetObject("platos", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap txt_ensalada_queso_cabra {
+            get {
+                object obj = ResourceManager.GetObject("txt-ensalada_queso_cabra", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap txt_ensalada_tomate {
+            get {
+                object obj = ResourceManager.GetObject("txt-ensalada_tomate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap txt_ensalada_twister {
+            get {
+                object obj = ResourceManager.GetObject("txt-ensalada_twister", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

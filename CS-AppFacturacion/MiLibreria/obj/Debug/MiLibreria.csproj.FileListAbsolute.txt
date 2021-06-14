@@ -10,3 +10,10 @@ F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demo
 F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
 F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.dll
 F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\bin\Debug\MiLibreria.dll.config
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\jsalm\Desktop\GestorFacturacion\MiLibreria\obj\Debug\MiLibreria.pdb
