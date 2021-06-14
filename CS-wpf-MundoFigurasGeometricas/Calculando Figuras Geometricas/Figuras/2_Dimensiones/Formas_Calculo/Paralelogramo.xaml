@@ -1,0 +1,21 @@
+﻿<Window x:Class="Calculando_Figuras_Geometricas.Figuras._2_Dimensiones.Formas_Calculo.Paralelogramo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculando_Figuras_Geometricas.Figuras._2_Dimensiones.Formas_Calculo"
+        mc:Ignorable="d"
+        Title="Paralelogramo" Height="500" Width="500">
+    <Grid>
+        <Image Height="270" Margin="128,10,128,0" VerticalAlignment="Top" RenderTransformOrigin="-0.24,-0.165" Source="/Calculando Figuras Geometricas;component/Img/paralelogramo.png"/>
+        <Label Content="Base" HorizontalAlignment="Left" Margin="68,287,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.395,-0.538"/>
+        <TextBox x:Name="txt_l_base" HorizontalAlignment="Left" Height="23" Margin="119,290,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_calcular" Content="Calcular" HorizontalAlignment="Left" Margin="332,409,0,0" VerticalAlignment="Top" Width="150" Height="50" Click="Btn_calcular_Click"/>
+        <Label x:Name="lbl_resultado" Content="" HorizontalAlignment="Left" Margin="218,421,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Resultado" HorizontalAlignment="Left" Margin="151,421,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.423"/>
+        <Label Content="Altura" HorizontalAlignment="Left" Margin="68,315,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.395,-0.538"/>
+        <TextBox x:Name="txt_altura" HorizontalAlignment="Left" Height="23" Margin="119,318,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_atras" Content="Atrás" HorizontalAlignment="Left" Margin="10,409,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="Btn_atras_Click"/>
+
+    </Grid>
+</Window>

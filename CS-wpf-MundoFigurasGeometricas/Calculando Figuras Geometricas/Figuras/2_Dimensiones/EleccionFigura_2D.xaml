@@ -1,0 +1,20 @@
+﻿<Window x:Class="Calculando_Figuras_Geometricas.Figuras._2_Dimensiones.EleccionFigura_2D"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculando_Figuras_Geometricas.Figuras._2_Dimensiones"
+        mc:Ignorable="d"
+        Title="EleccionFigura" Height="500" Width="500">
+    <Grid>
+        <Label Content="Caculos de Figuras Geometricas en 2 Dimensiones" Margin="107,10,107,0" VerticalAlignment="Top" RenderTransformOrigin="-1.579,-0.635" Height="30"/>
+        <Image x:Name="img_cuadrado" HorizontalAlignment="Left" Height="73" Margin="85,70,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/cuadrado.jpg" MouseLeftButtonDown="Img_cuadrado_MouseLeftButtonDown" />
+        <Image x:Name="img_rectangulo" HorizontalAlignment="Left" Height="73" Margin="169,70,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/rectangulo.png" MouseLeftButtonDown="Img_rectangulo_MouseLeftButtonDown" />
+        <Image x:Name="img_triangulo" HorizontalAlignment="Left" Height="73" Margin="253,70,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/triangulo.png" MouseLeftButtonDown="Img_triangulo_MouseLeftButtonDown" />
+        <Image x:Name="img_trapecio" HorizontalAlignment="Left" Height="73" Margin="332,70,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/trapecio.png" MouseLeftButtonDown="Img_traopecio_MouseLeftButtonDown" RenderTransformOrigin="3.57,0.507" />
+        <Image x:Name="img_circulo" HorizontalAlignment="Left" Height="73" Margin="85,143,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/circulo.png" MouseLeftButtonDown="Img_circulo_MouseLeftButtonDown" />
+        <Image x:Name="img_paralelogramo" HorizontalAlignment="Left" Height="73" Margin="169,143,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/paralelogramo.png" MouseLeftButtonDown="Img_paralelogramo_MouseLeftButtonDown" />
+        <Image x:Name="img_rombo" HorizontalAlignment="Left" Height="73" Margin="253,143,0,0" VerticalAlignment="Top" Width="79" Source="/Calculando Figuras Geometricas;component/Img/rombo.jpg" MouseLeftButtonDown="Img_rombo_MouseLeftButtonDown" />
+        <Button x:Name="btn_atras" Content="Atrás" HorizontalAlignment="Left" Margin="382,409,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="Btn_atras_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,48 @@
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csprojAssemblyReference.cache
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas\Cuadrado.g.cs
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\MainWindow.g.cs
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\App.g.cs
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas_MarkupCompile.cache
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas_MarkupCompile.lref
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.exe.config
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.exe
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.pdb
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas\Cuadrado.baml
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\MainWindow.baml
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.g.resources
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando_Figuras_Geometricas.Properties.Resources.resources
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csproj.GenerateResource.cache
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.exe
+C:\Users\Aula\source\repos\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.pdb
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csprojAssemblyReference.cache
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\EleccionFigura_2D.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Circulo.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Cuadrado.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Paralelogramo.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Rectangulo.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Rombo.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Trapecio.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Triangulo.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\MainWindow.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\App.g.cs
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas_MarkupCompile.cache
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas_MarkupCompile.lref
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.exe
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.pdb
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.exe.config
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.exe
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\bin\Debug\Calculando Figuras Geometricas.pdb
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\EleccionFigura_2D.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Circulo.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Cuadrado.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Paralelogramo.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Rectangulo.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Rombo.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Trapecio.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Figuras\2_Dimensiones\Formas_Calculo\Triangulo.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\MainWindow.baml
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.g.resources
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando_Figuras_Geometricas.Properties.Resources.resources
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csproj.GenerateResource.cache
+F:\Calculando Figuras Geometricas\Calculando Figuras Geometricas\obj\Debug\Calculando Figuras Geometricas.csproj.CoreCompileInputs.cache
