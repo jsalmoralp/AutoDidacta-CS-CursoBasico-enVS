@@ -1,0 +1,7 @@
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Release\MiLibreria.dll.config
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Release\MiLibreria.dll
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Release\MiLibreria.pdb
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Release\MiLibreria.csprojAssemblyReference.cache
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Release\MiLibreria.csproj.CoreCompileInputs.cache
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Release\MiLibreria.dll
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Release\MiLibreria.pdb

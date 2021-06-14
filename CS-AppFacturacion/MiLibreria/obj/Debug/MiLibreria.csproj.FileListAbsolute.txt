@@ -1,0 +1,12 @@
+D:\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+D:\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Debug\MiLibreria.dll
+D:\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Debug\MiLibreria.pdb
+D:\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.dll
+D:\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.pdb
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Debug\MiLibreria.dll.config
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Debug\MiLibreria.dll
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\bin\Debug\MiLibreria.pdb
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.dll
+F:\BackUp\Joan\de pens\pen azul (2019-08-31)\azul\Zona_de_Trabajo\Proyectos\Demos\C#\MiLibreria\obj\Debug\MiLibreria.pdb
