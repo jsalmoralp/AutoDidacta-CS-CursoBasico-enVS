@@ -1,0 +1,12 @@
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\bin\Debug\cs_crud.exe.config
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\bin\Debug\cs_crud.exe
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\bin\Debug\cs_crud.pdb
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.csprojAssemblyReference.cache
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.Properties.Resources.resources
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.Vistas.Empleados.FormActualizar.resources
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.Vistas.Empleados.FormListar.resources
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.Vistas.Empleados.FormRegistrar.resources
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.csproj.GenerateResource.cache
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.csproj.CoreCompileInputs.cache
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.exe
+E:\Zona_de_Trabajo\Proyectos\Demos\C#\cs_crud\obj\Debug\cs_crud.pdb
