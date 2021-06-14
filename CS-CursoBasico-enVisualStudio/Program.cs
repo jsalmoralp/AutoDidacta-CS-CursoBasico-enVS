@@ -119,7 +119,18 @@ namespace CursoBasico_CS_enVisualStudio
                 0, "Promocion 50", 1, 50);
 
             clsArchivos escritura = new clsArchivos();
-            escritura.ArchivoCliente(cliente);
+             try
+            {
+                escritura.ArchivoCliente(cliente);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Ha ocurrido un error con el archivo del cliente: " + ex.Message);
+                Console.ReadKey();
+            }
+
+            /* Arrays
+             * Son variables de un mismo tipo e las cuales puedes guardar mas de un valor.
 
         }
     }

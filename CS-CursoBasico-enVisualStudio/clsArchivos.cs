@@ -18,20 +18,41 @@ namespace CursoBasico_CS_enVisualStudio
          */
         public void ArchivoCliente(clsClientesAlPorMayor cliente)
         {
-            /* Como podemos ver, declaramos la creacion de un archivo,
-             * la escritura en el mismo, y finalmente el cierre de este,
-             * con el objeto de "System.IO" llamado "StreamWriter",
-             * y lo utilizamos de la siguiente manera:
+            /* Ciclo while y manejador de excepciones try->catch:
+             * Podemos ver todo un ejemplo de como manejar excepciones con el try->catch,
+             * y como implementar unas repeticiones para ver si la respuesta cambia con el ciclo while.
              */
-            // Con el "@", indicamos que nos coja el siguiente parametro tal y como lo definimos.
-            // Y con el segundo parametro en "true", sle indicamos que nos lo añada si ya existe el archivo.
-            StreamWriter archivo = new StreamWriter(@"E:\archivoClienteAlPorMayor.log", true);
-            archivo.WriteLine(cliente.Nombre + " " + cliente.Apellidos);
-            archivo.WriteLine(cliente.Direccion + " " + cliente.Ciudad + " " + cliente.Provincia + " " + cliente.Pais);
-            archivo.WriteLine(cliente.Telefono);
-            archivo.WriteLine(cliente.Promocion.Descuento + "% de Descuento.");
-            // Este es un metodo importante de este tipo de objeto, ya que debemos cerrar el archivo despues de escribir en el.
-            archivo.Close();
+            bool condArchivoCliente = true;
+            int contador = 0;
+            while (condArchivoCliente)
+            {
+                try
+                {
+                    /* Como podemos ver, declaramos la creacion de un archivo,
+                     * la escritura en el mismo, y finalmente el cierre de este,
+                     * con el objeto de "System.IO" llamado "StreamWriter",
+                     * y lo utilizamos de la siguiente manera:
+                     */
+                    // Con el "@", indicamos que nos coja el siguiente parametro tal y como lo definimos.
+                    // Y con el segundo parametro en "true", sle indicamos que nos lo añada si ya existe el archivo.
+                    StreamWriter archivo = new StreamWriter(@"E:\archivoClienteAlPorMayor.log", true);
+                    archivo.WriteLine(cliente.Nombre + " " + cliente.Apellidos);
+                    archivo.WriteLine(cliente.Direccion + " " + cliente.Ciudad + " " + cliente.Provincia + " " + cliente.Pais);
+                    archivo.WriteLine(cliente.Telefono);
+                    archivo.WriteLine(cliente.Promocion.Descuento + "% de Descuento.");
+                    // Este es un metodo importante de este tipo de objeto, ya que debemos cerrar el archivo despues de escribir en el.
+                    archivo.Close();
+                    condArchivoCliente = false;
+                }
+                catch (Exception e)
+                {
+                    contador++;
+                    if (contador >= 1000)
+                    {
+                        throw e;
+                    }
+                }
+            }
         }
     }
 }

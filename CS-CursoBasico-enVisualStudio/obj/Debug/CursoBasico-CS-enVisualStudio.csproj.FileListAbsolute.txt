@@ -1,0 +1,7 @@
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\obj\Debug\CursoBasico-CS-enVisualStudio.csprojAssemblyReference.cache
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\obj\Debug\CursoBasico-CS-enVisualStudio.csproj.CoreCompileInputs.cache
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\bin\Debug\CursoBasico-CS-enVisualStudio.exe.config
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\bin\Debug\CursoBasico-CS-enVisualStudio.exe
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\bin\Debug\CursoBasico-CS-enVisualStudio.pdb
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\obj\Debug\CursoBasico-CS-enVisualStudio.exe
+E:\Zona_de_Trabajo\Proyectos\Cursos\cursoBasico-C#\CursoBasico-CS-enVisualStudio\obj\Debug\CursoBasico-CS-enVisualStudio.pdb

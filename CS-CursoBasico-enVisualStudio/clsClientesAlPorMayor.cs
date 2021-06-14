@@ -58,10 +58,10 @@ namespace CursoBasico_CS_enVisualStudio
          * tendremos que declarar los "getters" y "setters" de esas variables,
          * y hacer uso de la palabra reservada "override".
          */
-        public override int Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override string Nombre { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override string Apellidos { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-        public override long Telefono { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public override int Id { get; set; }
+        public override string Nombre { get; set; }
+        public override string Apellidos { get; set; }
+        public override long Telefono { get; set; }
         public string Nie { get; set; }
         public string Direccion { get; set; }
         public string Ciudad { get; set; }
